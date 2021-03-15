@@ -47,7 +47,7 @@ function Resume(props: ResumeProps): React.ReactElement {
       <Head>
         <title>Resume</title>
       </Head>
-      <div className="flex flex-col items-center w-full">
+      <div className="flex flex-col items-center w-full p-8">
         <div>
           <h1 className="text-4xl">Louis Chan</h1>
           <div className="italics mb-8">Hi! I'm a software developer.</div>
